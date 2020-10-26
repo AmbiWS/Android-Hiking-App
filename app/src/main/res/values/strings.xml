@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hiking Everywhere</string>
+    <string name="title_activity_challenge">Map</string>
+    <string name="title_activity_location_viewer">Map</string>
+</resources>
