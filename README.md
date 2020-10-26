@@ -9,7 +9,8 @@ Sensitive files was removed from VCS and commit history.
 
 A simple hiking app for Android OS.  
 Feel free to try it on [Google Play!](https://play.google.com/store/apps/details?id=com.ambiwsstudio.hikingeverywhere)  
-Also there can be found more information about app, and other projects to inspect.
+Also there can be found more information about app, and other projects to inspect.  
+Code can be found [here!](https://github.com/AmbiWS/Android-Hiking-App/tree/master/app/src/main/java/com/ambiwsstudio/hikingeverywhere)
 
 ---
 
