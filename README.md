@@ -2,7 +2,7 @@
 ### About
 
 Developed in 2020.  
-Tools: Java, Google Maps API, Firebase.
+Tools: Java, Google Maps API, Firebase, Picasso.
 
 One of the first pet-projects for Android.  
 Sensitive files was removed from VCS and commit history.  
