@@ -18,6 +18,6 @@ Code can be found [here!](https://github.com/AmbiWS/Android-Hiking-App/tree/mast
 
 ![Screenshot 1](https://play-lh.googleusercontent.com/AWU-9K26BrrK9TfNhxsz8IkhPjKRy3gy8z_9bcHeORBtotumIKCFmKYCOiSEvkEH0kh7=w1920-h937-rw)  
 
-![Screenshot 2](https://play-lh.googleusercontent.com/_XdLywlZtttFLtUZc6GcLlI8PLpESSwPS3t9aYxQI4uesDUhlJVaKm5feeERvIAcIHc=w1920-h937-rw)  
+![Screenshot 2](https://play-lh.googleusercontent.com/B2KyTobYFuGHbXhH8FaGEfUKMyypA3Yvxwo-LcBjKfLD3dijZGMuc6KLno2v3r1QIYY=w1920-h937-rw)  
 
-![Screenshot 3](https://play-lh.googleusercontent.com/oki0pNB-4r0RdEIemhoKDsWISYVEtoHFZWtGp76VDt-9Zd26-R3hjaqVGgaD-seBXgDp=w1920-h937-rw)  
+![Screenshot 3](https://play-lh.googleusercontent.com/PnG2A21zMgiXb1TZZdEyiQ8JTWC8GvpTH-jzbVLq4K8xyUZ71WVnkAyXLVxFnPXfg1qH=w1920-h937-rw)  
